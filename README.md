@@ -8,6 +8,7 @@ I love laundry:
 - [ ] quota issues - my bad
 - [ ] looking at CSV files to guide your coding
 - [ ] bringing back longer error messages for test runs
+- [ ] the FileHandler constructor
 - [ ] you might need to look into the Picture source
 - [ ] assignment 5 late policy
 - [ ] info about the Gauntlet
@@ -88,6 +89,15 @@ into this:
 </pre>
 
 See the change? We've put a hash (`#`) after the `tree`.
+
+
+## FILEHANDLER CONSTRUCTOR
+
+Constructors are meant to initialize the state of the object being created.
+
+The state of an object is its instance variables.
+
+What are the instance variables of FileHandler?....
 
 ## PICTURE SOURCE
 
