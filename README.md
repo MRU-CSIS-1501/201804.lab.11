@@ -12,6 +12,7 @@ I love laundry:
 - [ ] you might need to look into the Picture source
 - [ ] assignment 5 late policy
 - [ ] info about the Gauntlet
+- [ ] last drill out today. Cry not.
 
 ---
 
